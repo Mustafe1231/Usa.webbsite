@@ -1,0 +1,118 @@
+* {
+    box-sizing: border-box;
+   
+    
+  }
+  
+  
+  body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    
+   
+  }
+   /* DESKTOP LAYOUT*/
+   
+   nav {
+   display: flex;
+   justify-content: center;
+   background-color: red ;
+    
+  
+  
+  }
+  
+  a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    justify-content: center;
+  }
+  
+ p {
+  color: blue;
+ 
+  
+
+
+ }
+   
+
+ p2{
+   color:blue
+    
+
+ }
+    
+
+
+p3 {
+ color: blue;
+
+}
+  
+
+ 
+
+ section {
+     color:red;
+      
+      
+
+      
+
+
+ }
+
+
+img {
+   max-width:  40%;
+   max-height:  40%;
+   display: flex;
+   position: absolute;
+   right: 30px;
+   
+
+
+
+}
+  
+h1 {
+   margin: 0;
+
+
+}
+   
+
+  
+  
+   
+  
+  
+   
+    
+    
+  
+  
+          
+    
+     
+    
+        
+   
+    
+   
+    
+    
+    
+  
+  
+ 
+   
+    
+ 
+    
+    
